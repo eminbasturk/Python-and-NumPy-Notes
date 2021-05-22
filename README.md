@@ -1,2 +1,2 @@
-# Introduction-to-Python-Notes
-* Python'a Giriş konusu altında kullanılan Python ve NumPy'a ait bazı fonksiyonlar, metotlar, açıklaması ve kullanımları.
+# Python
+Python'a Giriş ve Orta Düzey Python konusu altında kullanılan Python, NumPy, Matplotlib ve Pandas'a ait bazı fonksiyonlar, metotlar, açıklaması ve kullanımları.
